@@ -1,0 +1,7 @@
+search with code
+this
+==> refere to what
+== function regular => refere to what
+== arrow function  => refere to what
+
+arr.findIndex  => write code
